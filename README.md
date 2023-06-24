@@ -7,10 +7,10 @@ Whatch my *[DEMO VIDEOS!](https://www.youtube.com/playlist?list=PLHwovxHsm7_Vawj
 ## Project Source Codes:
 * [Hangman Game](https://github.com/ShihHsuanLin/MystanCodeProjects/tree/main/stanCode_Projects/hangman_game)
   * python semantics & syntax
-* [MyPhotoshop](https://github.com/ShihHsuanLin/MystanCodeProjects/tree/main/stanCode_Projects/my_photoshop)
-  * image processing
 * [Breakout Game](https://github.com/ShihHsuanLin/MystanCodeProjects/tree/main/stanCode_Projects/break_out_game)
   * animation & game designing
+* [MyPhotoshop](https://github.com/ShihHsuanLin/MystanCodeProjects/tree/main/stanCode_Projects/my_photoshop)
+  * image processing
 * [Name Popularity Searching System](https://github.com/ShihHsuanLin/MystanCodeProjects/tree/main/stanCode_Projects/name_searching_system)
   * data structure
 * [Anagram](https://github.com/ShihHsuanLin/MystanCodeProjects/tree/main/stanCode_Projects/anagram)
