@@ -2,7 +2,7 @@
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101 course.
 
-Whatch my *[DEMO VIDEOS!](https://www.youtube.com/playlist?list=PLHwovxHsm7_VawjoPROqfvYft1bnATJQF)*
+Whatch my *[DEMO VIDEOS!](https://www.youtube.com/playlist?list=PLHwovxHsm7_XRbnVa0nUUYoUgxnwU7dnb)*
 
 ## Project Source Codes:
 * [Hangman Game](https://github.com/ShihHsuanLin/MystanCodeProjects/tree/main/stanCode_Projects/hangman_game)
